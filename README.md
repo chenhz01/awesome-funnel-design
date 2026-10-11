@@ -4,6 +4,8 @@ Turn a curated list repo into a measurable funnel instead of a static wall of li
 
 Pattern version: **0.1** · Data currency: **as of 2026-10-11**.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Curated lists are the most common open-source content asset, and almost all of them are unmanaged: links rot silently, placement is arbitrary, and maintainers who do monetize (sponsor slots, their own products pinned at the top) rarely publish the numbers. The 2026 state of the art — large awesome-lists carrying paid slots and maintainer-owned app walls as first-screen inventory — shows a list *can* be a sustainable funnel. What's missing is the boring engineering layer: structure validation with disclosure checks, and a metrics loop that works without shipping any marketing content or tracking users.
